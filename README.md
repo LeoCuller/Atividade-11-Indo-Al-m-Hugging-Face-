@@ -77,6 +77,9 @@ Professor: Fábio Rezende de Souza
 Alunos:
 
 Leonardo Moraes Culler - https://github.com/LeoCuller?tab=repositories
+
 Stefano Moretti - https://github.com/stefanomrtt?tab=repositories
-Alessandro Ciosani -
+
+Alessandro Ciosani - https://github.com/Alezito53?tab=repositories
+
 Wendell Amorim -  https://github.com/wendellamorim-del?tab=repositories 
