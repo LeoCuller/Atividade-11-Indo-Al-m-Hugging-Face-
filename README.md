@@ -79,4 +79,4 @@ Alunos:
 Leonardo Moraes Culler - https://github.com/LeoCuller?tab=repositories
 Stefano Moretti - https://github.com/stefanomrtt?tab=repositories
 Alessandro Ciosani -
-Wendell Amorim - 
+Wendell Amorim -  https://github.com/wendellamorim-del?tab=repositories 
